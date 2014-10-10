@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="nswp">
+        <attr name="title_array" format="integer"/>
+    </declare-styleable>
+</resources>

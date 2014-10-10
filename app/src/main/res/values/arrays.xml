@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="array_information">
+        <item>@string/navigation_drawer_close</item>
+        <item>@string/navigation_drawer_open</item>
+    </string-array>
+</resources>
